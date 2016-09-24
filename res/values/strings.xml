@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, activity2_1!</string>
+    <string name="app_name">activity2_1</string>
+    <string-array name="Stopages">
+        <item>	9 TALA	</item>
+<item>	ACHARYA VIHAR	</item>
+<item>	ADITYA CARE	</item>
+<item>	ADITYA SQUARE	</item>
+<item>	AG COLONY	</item>
+<item>	AG SQUARE	</item>
+<item>	AIGINIA	</item>
+<item>	AIGINIA BRIDGE	</item>
+<item>	AIRPORT	</item>
+<item>	ANAND BAZAR	</item>
+<item>	ANATAPUR	</item>
+<item>	APOLLO HOSPITAL	</item>
+<item>	ARUNODAY MARKET	</item>
+<item>	ASHOK NAGAR	</item>
+<item>	ASHOKA MARKET	</item>
+<item>	BADAM BADI	</item>
+<item>	BALAKATI BAZAR	</item>
+<item>	BALIKUDA	</item>
+<item>	BAPUJI NAGAR	</item>
+<item>	BARADA HOSPITAL	</item>
+<item>	BARAMUNDA	</item>
+<item>	BARAMUNDA HB COLONY	</item>
+<item>	BARANGA BY PASS	</item>
+<item>	BARIK SAHI CHHAK	</item>
+<item>	BARUNEI PITHA	</item>
+<item>	BAYABABA MATHA	</item>
+<item>	BAZAR KOLKATA	</item>
+<item>	BHANPUR	</item>
+<item>	BHAT KUDI(DHABA)	</item>
+<item>	BHIMTANGI	</item>
+<item>	BHUASUNI TEMPLE	</item>
+<item>	BIJU PATANAIK PARK	</item>
+<item>	BJB COLLEGE	</item>
+<item>	BOMIKHAL	</item>
+<item>	BUDHESWARI TEMPLE	</item>
+<item>	CAPITAL HOSPITAL	</item>
+<item>	CBI OFFICE	</item>
+<item>	CDA 6 MARKET SQUARE	</item>
+<item>	CDA 6 PARK	</item>
+<item>	CET	</item>
+<item>	CITY COLLEGE	</item>
+<item>	CROWN HOTEL	</item>
+<item>	CRPF SQUARE	</item>
+<item>	DAGARPADA ROAD	</item>
+<item>	DAMANA SQUARE	</item>
+<item>	DAV SCHOOL	</item>
+<item>	DELTA SQUARE	</item>
+<item>	DHAULI ROAD	</item>
+<item>	DPS KALINGA	</item>
+<item>	DUMDUMA	</item>
+<item>	EAST COLLEGE	</item>
+<item>	EKAMRA HALL	</item>
+<item>	EYE HOSPITAL SQUARE	</item>
+<item>	FIRE STATION	</item>
+<item>	FOREST PARK	</item>
+<item>	FORTUNE TOWER	</item>
+<item>	GADA KHURDA	</item>
+<item>	GAJAPATI NAGAR	</item>
+<item>	GANGA NAGAR	</item>
+<item>	GANGAPADA BUS STAND	</item>
+<item>	GANGAPADA TOLL PLAZA	</item>
+<item>	GARAGE SQUARE	</item>
+<item>	GAURI NAGAR	</item>
+<item>	GHATIKIA	</item>
+<item>	GOHIRA SQUARE	</item>
+<item>	GOPALBANDHU SQUARE	</item>
+<item>	GOSASUR CHHAK	</item>
+<item>	GOVERNOR HOUSE SQUARE	</item>
+<item>	GUNDICHA MANDIR SQUARE	</item>
+<item>	H.B. COLONY	</item>
+<item>	H.B. OFFICE	</item>
+<item>	HANSPAL  	</item>
+<item>	HANSPAL SQUARE	</item>
+<item>	HANUMAN MANDIR	</item>
+<item>	HIGH COURT ROAD	</item>
+<item>	HI-TECH HOSPITAL SQUARE	</item>
+<item>	HOTEL SWOSTI	</item>
+<item>	HOUSING BOARD	</item>
+<item>	INFOCITY GATE	</item>
+<item>	ISKON TEMPLE	</item>
+<item>	ITER GATE	</item>
+<item>	JADUPUR	</item>
+<item>	JAGAMARA	</item>
+<item>	JANLA	</item>
+<item>	JATANI GATE	</item>
+<item>	JAYADEV VATIKA	</item>
+<item>	JAYADEV VIHAR	</item>
+<item>	JHANJIR MANGALA GADA	</item>
+<item>	JHARAPADA	</item>
+<item>	JUSTICE SQUARE	</item>
+<item>	JYOTE MOTORS	</item>
+<item>	K.K PETROL PUMP	</item>
+<item>	KALINGA HATCHERY	</item>
+<item>	KALINGA HOSPITAL	</item>
+<item>	KALINGA STUDIO	</item>
+<item>	KALINGA VIHAR	</item>
+<item>	KALINGA VIHAR SQUARE	</item>
+<item>	KALPANA	</item>
+<item>	KALYAN MANDAP	</item>
+<item>	KEDAR GAURI TEMPLE	</item>
+<item>	KESHARI CINEMA	</item>
+<item>	KESHARI TALKIES	</item>
+<item>	KHAN NAGAR TRAFFIC	</item>
+<item>	KHANDAGIRI SQUARE	</item>
+<item>	KHAPURIA SQUARE	</item>
+<item>	KHURDA	</item>
+<item>	KHURDA BY PASS	</item>
+<item>	KIIT CAMPUS	</item>
+<item>	KIIT SQUARE	</item>
+<item>	KOLATHIA CHHAK	</item>
+<item>	KOLATHIA ROAD	</item>
+<item>	KOLATHIA SQUARE	</item>
+<item>	KV MAIN ROAD	</item>
+<item>	LAXMI SAGAR	</item>
+<item>	LINGARAJ MANDIR	</item>
+<item>	LINGIPUR	</item>
+<item>	LINGRAJ STATION	</item>
+<item>	MAA SHAKTI	</item>
+<item>	MADAN PUR	</item>
+<item>	MADHU PATNA SQUARE	</item>
+<item>	MAHARSHI COLLEGE ROAD	</item>
+<item>	MAHAVEER BAZAR	</item>
+<item>	MANCHESWAR	</item>
+<item>	MARKET BUILDING	</item>
+<item>	MASTER CANTEEN	</item>
+<item>	MAUSIMA MANDIR	</item>
+<item>	MEDICAL SQUARE	</item>
+<item>	MEGHA TEMPLE	</item>
+<item>	MUSEUM SQUARE	</item>
+<item>	NAKA GATE	</item>
+<item>	NAKHARA	</item>
+<item>	NANDANKANAN	</item>
+<item>	NAVIN NIWAS	</item>
+<item>	NEW AIRPORT SQUARE	</item>
+<item>	NICCO PARK	</item>
+<item>	NISHAMANI CINEMA HALL	</item>
+<item>	NUAGAON	</item>
+<item>	OGALAPADA	</item>
+<item>	OKIL BAG	</item>
+<item>	OLD RAILWAY STATION	</item>
+<item>	OMFED SQUARE	</item>
+<item>	PAHAL	</item>
+<item>	PAL HEIGHTS	</item>
+<item>	PALA MANDAP	</item>
+<item>	PALASPALLI	</item>
+<item>	PALASUNI	</item>
+<item>	PASSPORT OFFICE	</item>
+<item>	PATIA SQUARE	</item>
+<item>	PATRAPADA	</item>
+<item>	PETROL PUMP	</item>
+<item>	PIRA BAZAAR	</item>
+<item>	PITTPALI	</item>
+<item>	PMG SQUARE	</item>
+<item>	PN COLLEGE	</item>
+<item>	PNT COLONY	</item>
+<item>	POLICE COLONY	</item>
+<item>	POWER HOUSE	</item>
+<item>	PRATAPI NAGAR	</item>
+<item>	PURI GHAT P.S	</item>
+<item>	RADHIKA TOWER	</item>
+<item>	RAGHUNATHPUR	</item>
+<item>	RAGHUNATHPUR VILLAGE	</item>
+<item>	RAJ KISHORE MARG	</item>
+<item>	RAJ MAHAL	</item>
+<item>	RAJA RANI TEMPLE	</item>
+<item>	RAM MANDIR	</item>
+<item>	RANGA BAZAR	</item>
+<item>	RASULGARH	</item>
+<item>	RAVI TALKIES	</item>
+<item>	RAVINDRA MANDAP	</item>
+<item>	RED CROSS BHAWAN	</item>
+<item>	RUPALI SQUARE	</item>
+<item>	SAI TEMPLE	</item>
+<item>	SAILASHREE VIHAR	</item>
+<item>	SAINIK SCHOOL	</item>
+<item>	SAMANTARAPUR	</item>
+<item>	SAPTASATI MANDIR	</item>
+<item>	SAPTASATI TEMPLE	</item>
+<item>	SARASWATI SISHU MANDIR	</item>
+<item>	SASHTRI NAGAR	</item>
+<item>	SATABDI NAGAR	</item>
+<item>	SATI CHAURA SQUARE	</item>
+<item>	SATSANGA VIHAR	</item>
+<item>	SATYA NAGAR	</item>
+<item>	SATYA SAI ENCLAVE	</item>
+<item>	SECRETARIAT	</item>
+<item>	SIKHARCHANDI	</item>
+<item>	SILICON COLLEGE	</item>
+<item>	SIRIPUR SQUARE	</item>
+<item>	SISHU BHABAN CHHAK	</item>
+<item>	SISHU BHAWAN	</item>
+<item>	SISHUPALGARH	</item>
+<item>	SOUBHAGYA NAGAR	</item>
+<item>	SRIYA SQUARE	</item>
+<item>	SUM HOSPITAL	</item>
+<item>	SWOSTI HOTEL	</item>
+<item>	TAMANDO	</item>
+<item>	TELENGA PENTHA	</item>
+<item>	THE WORLD	</item>
+<item>	TINIMUNDIA SQUARE	</item>
+<item>	UNION BANK	</item>
+<item>	UNIT-8,BOYS HIGH SCHOOL	</item>
+<item>	UNIT-8,DAV	</item>
+<item>	URALI GADA	</item>
+<item>	UTTARA	</item>
+<item>	VANI VIHAR	</item>
+<item>	VSS NAGAR	</item>
+<item>	WORLD MALL	</item>
+<item>	YATRI NIWAS	</item>
+        
+       
+        
+    </string-array>
+</resources>
